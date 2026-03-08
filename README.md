@@ -596,12 +596,12 @@ http://<your-ec2-public-ip>:3300
 #### 📸 Screenshot 18 – Browser: Book Management App Loaded
 > _Should show the Angular Book Management System loaded in the browser at the EC2 public IP on port 3300, with the "Add a Book" form and the books table visible._
 
-![App loaded in browser](screenshots/app-on-web.jpg)
+![App loaded in browser](screenshots/apponweb.jpg)
 
 #### 📸 Screenshot 19 – Browser: Book Record Added and Displayed in Table
 > _Should show the app after adding at least one book — with the book's name, ISBN, author, and page count visible in the table, and a Delete button next to it. This confirms the full MEAN stack is working end-to-end._
 
-![Book record added](screenshots/added_records.jpg)
+![Book record added](screenshots/added.jpg)
 
 ---
 
