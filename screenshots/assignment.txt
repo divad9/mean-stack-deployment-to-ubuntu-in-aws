@@ -1,0 +1,1 @@
+https://github.com/divad9/mean-stack-deployment-to-ubuntu-in-aws.git
